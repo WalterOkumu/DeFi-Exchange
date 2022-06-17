@@ -426,7 +426,7 @@ export const TOKEN_CONTRACT_ABI = [
     "type": "receive"
   }
 ];
-export const TOKEN_CONTRACT_ADDRESS = "0xd78E12F588B057eB487006036d61302f6Ac2C0d9";
+export const TOKEN_CONTRACT_ADDRESS = "0x0Dd07Ec5a763d468432bC39c61A6C06F12EC591c";
 export const EXCHANGE_CONTRACT_ABI = [
   {
     "inputs": [
